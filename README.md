@@ -14,7 +14,7 @@ If you use this code, please cite:
 > Hou H, Zhou Y, Chen X, et al. Genome-wide meQTL mapping reveals genetic control of DNA methylation in colon cancer. *Genome Medicine*. Under Review.
 
 A versioned snapshot of this repository is archived on Zenodo:
-https://doi.org/10.5281/zenodo.【PLACEHOLDER—填Zenodo_DOI】
+https://doi.org/10.5281/zenodo.22169621
 
 ## Data availability
 
