@@ -26,7 +26,7 @@ Data supporting this study are subject to the regulations of the Human Genetic R
 | Gene expression data (RNA-seq) | OMIX | [OMIX011530](https://ngdc.cncb.ac.cn/omix/release/OMIX011530) |
 | meQTL summary statistics (beta and P-values) | OMIX | [OMIX011554](https://ngdc.cncb.ac.cn/omix/release/OMIX011554) |
 | Genotype data (WGS) | GVM | [PRJCA044670](https://ngdc.cncb.ac.cn/bioproject/browse/PRJCA044670) |
-| WGBS and RNA-seq sequencing data | CNSA | [CNP0008089](https://db.cngb.org/data_resources/project/CNP0008089/) |
+| WGBS and RNA-seq data | CNSA | [CNP0008089](https://db.cngb.org/data_resources/project/CNP0008089/) |
 
 
 ## License
